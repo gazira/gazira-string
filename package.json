@@ -1,0 +1,22 @@
+{
+    "name": "gazira-string",
+    "version": "0.0.1",
+    "main": "index.js",
+    "description": "javascript string tool",
+    "keywords": [
+        "string", "tool"
+    ],
+    "spm": {
+        "main": "index.js",
+        "dependencies": {
+        },
+        "devDependencies": {},
+        "tests": "",
+        "ignore": [
+            "components",
+            "dist",
+            "spm_modules"
+        ],
+        "buildArgs": ""
+    }
+}
